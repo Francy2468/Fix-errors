@@ -8,3 +8,4 @@ Output not generated: [string "Obfuscated_Script"]:455: unexpected symbol near '
 Output not generated: [string "Obfuscated_Script"]:1: 'until' expected near 'end'
 Try to dump thid aswell:
 https://gitlab.com/rlbx-scripts/elysium-sab/-/raw/main/elysium-sab
+if the bot detects @everyone or @here put that he dosent write that in the output or message because it could get spammed the bot need to skip @pings 
